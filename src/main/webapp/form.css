@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+}
+.container{
+    background-color:#f2f2f2;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 30px;
+    width: 400px;
+}
+
+.title{
+    text-align: center;
+}
+
+
+
+
+/*input{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    padding: 5px;
+}
+.container{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}*/
